@@ -1,4 +1,3 @@
-This script ( an edit of https://www.youtube.com/watch?v=UtNYzv8gLbs&list=PLlcnQQJK8SUj5vlKibv8_i42nwmxDUOFc&index=4&t=68s)
 
 Purpose is to overwhelm a scammer that is tring to steal creds by using a login page
 
