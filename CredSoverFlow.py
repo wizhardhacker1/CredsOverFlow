@@ -11,7 +11,8 @@ random.seed = (os.urandom(1024))
 
 
 # setting up different domain extensions
-domain = ['.com', '.gov', '.us', '.edu', '.org', '.ru', '.tw', ]
+domain = ['.com', '.gov', '.us', '.edu', '.org', '.ru', '.tw', '.live', '.io', '.blog', '.biz', '.blog', '.co']
+
 
 # url to overflow
 url = 'https://www.stealmylogin.com/demo.html'
